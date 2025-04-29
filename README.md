@@ -1,5 +1,5 @@
 
-## 🎓🎓🎓🎓🎓 Certifications 🎓🎓🎓🎓🎓
+## 🎓 Certifications 🎓
 
 - [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-W3Schools-blue)](https://verify.w3schools.com/1PTK90QPX5)
 - [![Data Science](https://img.shields.io/badge/Data%20Science-W3Schools-blue)](https://verify.w3schools.com/1PTK1NATS1)
