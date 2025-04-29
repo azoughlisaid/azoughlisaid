@@ -1,8 +1,6 @@
 
 ## 🎓🎓🎓🎓🎓 Certifications 🎓🎓🎓🎓🎓
-<p align="center">
-  <img src="assets/Project-Management_Ready.png" alt="Project Management" width="300"/>
-</p>
+
 - [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-W3Schools-blue)](https://verify.w3schools.com/1PTK90QPX5)
 - [![Data Science](https://img.shields.io/badge/Data%20Science-W3Schools-blue)](https://verify.w3schools.com/1PTK1NATS1)
 - [![Excel](https://img.shields.io/badge/Excel-W3Schools-blue)](https://verify.w3schools.com/66LAN3K4U)
