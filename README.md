@@ -1,10 +1,9 @@
 
 ## 🎓 Certifications 🎓
-
-- [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-W3Schools-blue)](https://verify.w3schools.com/1PTK90QPX5)
-- [![Data Science](https://img.shields.io/badge/Data%20Science-W3Schools-blue)](https://verify.w3schools.com/1PTK1NATS1)
 - [![Data Science Project ](https://img.shields.io/badge/Data%20Science-Udemy-blue)](https://www.udemy.com/certificate/UC-1d6b569b-a874-470c-9650-d029a1dde69d/)
 - [![GCP Data Engineer](https://img.shields.io/badge/GCP%20Data%20Engineer-Udemy-blue)](https://www.udemy.com/certificate/UC-09edf83f-166f-447c-bf17-376306211ddc/)
+- [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-W3Schools-blue)](https://verify.w3schools.com/1PTK90QPX5)
+- [![Data Science](https://img.shields.io/badge/Data%20Science-W3Schools-blue)](https://verify.w3schools.com/1PTK1NATS1)
 - [![Excel](https://img.shields.io/badge/Excel-W3Schools-blue)](https://verify.w3schools.com/66LAN3K4U)
 - [![SQL](https://img.shields.io/badge/SQL-W3Schools-blue)](https://verify.w3schools.com/1OUMWLKWVD)
 - [![Python](https://img.shields.io/badge/Python-W3Schools-blue)](https://verify.w3schools.com/1PTK8ZTDWK)
